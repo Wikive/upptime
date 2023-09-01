@@ -24,6 +24,7 @@ status-website:
       href: /
     - title: me
       href: https://me.gwangtori.com
+  footer: [Upptime](https://github.com/upptime/upptime)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
