@@ -16,15 +16,14 @@ status-website:
   cname: status.gwto.cc
   # baseUrl: /Upptime
   logoUrl: https://file.gwto.cc/symbol.svg
-  name: 광토리
-  introTitle: "서비스 모니터링"
-  introMessage: "광토리가 운영하는 웹페이지 상태를 확인할 수 있는 공간이에요."
+  name: 서비스 모니터링
+  introTitle: "**서비스 모니터링**"
+  introMessage: "광토리가 운영하는 서비스의 상태를 확인할 수 있는 공간이에요."
   navbar:
     - title: Status
       href: /
     - title: me
       href: https://me.gwangtori.com
-  footer: [Upptime](https://github.com/upptime/upptime)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
