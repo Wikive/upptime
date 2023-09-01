@@ -16,14 +16,14 @@ status-website:
   cname: status.gwto.cc
   # baseUrl: /Upptime
   logoUrl: https://file.gwto.cc/symbol.svg
-  name: 서버 상태 페이지
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 광토리
+  introTitle: "서비스 모니터링"
+  introMessage: "광토리가 운영하는 웹페이지 상태를 확인할 수 있는 공간이에요."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: me
+      href: https://me.gwangtori.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
