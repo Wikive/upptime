@@ -22,18 +22,20 @@
     "url": "https://onemind.gwto.cc",
     "icon": "https://icons.duckduckgo.com/ip3/onemind.gwto.cc.ico",
     "slug": "onemindwiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 946,
-    "timeDay": 1028,
-    "timeWeek": 946,
-    "timeMonth": 946,
-    "timeYear": 946,
-    "dailyMinutesDown": {}
+    "time": 859,
+    "timeDay": 769,
+    "timeWeek": 859,
+    "timeMonth": 859,
+    "timeYear": 859,
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "IT blog",
