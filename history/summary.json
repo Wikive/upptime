@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/me.gwangtori.com.ico",
     "slug": "introduce-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 562,
     "timeDay": 563,
     "timeWeek": 581,
     "timeMonth": 562,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2023-09-09": 0
+      "2023-09-09": 10
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/onemind.gwto.cc.ico",
     "slug": "onemindwiki",
     "status": "down",
-    "uptime": "90.23%",
-    "uptimeDay": "28.55%",
-    "uptimeWeek": "89.44%",
-    "uptimeMonth": "90.23%",
-    "uptimeYear": "90.23%",
+    "uptime": "90.15%",
+    "uptimeDay": "27.89%",
+    "uptimeWeek": "89.34%",
+    "uptimeMonth": "90.15%",
+    "uptimeYear": "90.15%",
     "time": 840,
     "timeDay": 512,
     "timeWeek": 844,
     "timeMonth": 840,
     "timeYear": 840,
     "dailyMinutesDown": {
-      "2023-09-09": 50,
+      "2023-09-09": 60,
       "2023-09-08": 979,
       "2023-09-04": 36
     }
