@@ -9,9 +9,9 @@ sites:
     url: https://onemind.gwto.cc
   - name: IT blog
     url: https://it.gwangtori.com
-  - name: daolwiki
+  - name: daol wiki
     url: https://wiki.daol.cc
-  - name: daolsocial
+  - name: daol social
     url: https://social.daol.cc
 
 status-website:
