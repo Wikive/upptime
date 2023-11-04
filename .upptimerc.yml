@@ -1,5 +1,5 @@
 # Change these first
-owner: Gwangtori # Your GitHub organization or username, where this repository lives
+owner: daol-project # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -11,17 +11,17 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.gwto.cc
+  cname: status.daol.cc
   # baseUrl: /Upptime
-  logoUrl: https://file.gwto.cc/symbol.svg
+  logoUrl: https://file.gwangtori.com/daol.png
   name: 서비스 모니터링
-  introTitle: "**서비스 모니터링**"
-  introMessage: "광토리가 운영하는 서비스의 상태를 확인할 수 있는 공간이에요."
+  introTitle: "*서비스 모니터링**"
+  introMessage: "다올이 운영하는 웹사이트 상태를 확인할 수 있는 공간이에요."
   navbar:
-    - title: Status
-      href: /
-    - title: me
-      href: https://me.gwangtori.com
+    - title: Wiki
+      href: https://wiki.daol.cc
+    - title: Social
+      href: https://social.daol.cc
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
