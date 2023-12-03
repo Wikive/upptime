@@ -4,19 +4,19 @@
     "url": "https://wiki.daol.cc",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.daol.cc.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 453,
-    "timeWeek": 461,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 441,
+    "timeDay": 428,
+    "timeWeek": 451,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 8
     }
   },
   {
