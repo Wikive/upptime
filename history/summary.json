@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.daol.cc.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 441,
-    "timeDay": 428,
-    "timeWeek": 451,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 444,
+    "timeDay": 441,
+    "timeWeek": 457,
     "timeMonth": 441,
-    "timeYear": 441,
-    "dailyMinutesDown": {
-      "2023-12-03": 8
-    }
+    "timeYear": 444,
+    "dailyMinutesDown": {}
   },
   {
     "name": "social",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 458,
-    "timeWeek": 453,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "time": 435,
+    "timeDay": 513,
+    "timeWeek": 449,
+    "timeMonth": 431,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   }
 ]
