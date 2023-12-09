@@ -22,17 +22,19 @@
     "url": "https://social.daol.cc",
     "icon": "https://icons.duckduckgo.com/ip3/social.daol.cc.ico",
     "slug": "social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 465,
-    "timeWeek": 465,
+    "timeDay": 457,
+    "timeWeek": 463,
     "timeMonth": 437,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 0
+    }
   }
 ]
