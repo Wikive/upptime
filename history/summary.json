@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.daol.cc.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.85%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.85%",
     "time": 877,
     "timeDay": 4556,
     "timeWeek": 2212,
     "timeMonth": 1133,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2023-12-29": 44,
+      "2023-12-29": 76,
       "2023-12-25": 42
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.daol.cc.ico",
     "slug": "social",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.83%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.83%",
     "time": 504,
     "timeDay": 1891,
     "timeWeek": 806,
     "timeMonth": 552,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-12-29": 104
+      "2023-12-29": 136
     }
   }
 ]
