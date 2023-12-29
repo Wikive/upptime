@@ -4,19 +4,19 @@
     "url": "https://wiki.daol.cc",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.daol.cc.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.89%",
-    "time": 856,
-    "timeDay": 6072,
-    "timeWeek": 2310,
-    "timeMonth": 1113,
-    "timeYear": 856,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.88%",
+    "time": 851,
+    "timeDay": 4957,
+    "timeWeek": 2189,
+    "timeMonth": 1097,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2023-12-29": 45,
+      "2023-12-29": 57,
       "2023-12-25": 42
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.daol.cc.ico",
     "slug": "social",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.90%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.90%",
     "time": 504,
     "timeDay": 1891,
     "timeWeek": 806,
     "timeMonth": 552,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-12-29": 66
+      "2023-12-29": 78
     }
   }
 ]
