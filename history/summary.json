@@ -4,7 +4,7 @@
     "url": "https://wiki.daol.cc",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.daol.cc.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
     "uptimeDay": "97.80%",
     "uptimeWeek": "99.69%",
@@ -37,7 +37,7 @@
     "time": 1308,
     "timeDay": 8093,
     "timeWeek": 3232,
-    "timeMonth": 2089,
+    "timeMonth": 2116,
     "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-01-11": 679,
